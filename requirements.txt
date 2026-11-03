@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+pypdf
+python-docx
+faiss-cpu
+psutil
+Pillow
+opencv-python-headless
+fpdf2
+imageio
+imageio-ffmpeg
+fastapi
+uvicorn
